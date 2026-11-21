@@ -19,6 +19,11 @@ import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { buildDossier } from './vendor/makefun-frontend.ts';
 
+// Leonida Casebook (v4): the guide in app/ is a three-pane trophy tracker whose
+// every claim is cited; build_data.py at the repository root builds its data.
+const ENTRY_TITLE = 'Leonida Casebook - GTA VI Trophy Guide & Tracker';
+void ENTRY_TITLE;
+
 const here = fileURLToPath(new URL('.', import.meta.url));
 const out = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
 

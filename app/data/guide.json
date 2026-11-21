@@ -1,0 +1,826 @@
+{
+ "title": "Leonida Casebook - GTA VI Trophy Guide & Tracker",
+ "sources": [
+  {
+   "id": 1,
+   "name": "PowerPyx - GTA 6 Trophy Guide & Roadmap",
+   "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+   "scope": "full guide",
+   "pages": 12,
+   "independence": "independent witness",
+   "read": "2026-11-21"
+  },
+  {
+   "id": 2,
+   "name": "PowerPyx - GTA 6 100% Completion Checklist & Guide",
+   "url": "https://www.powerpyx.com/gta-6-100-completion-checklist-guide/",
+   "scope": "full guide",
+   "pages": 6,
+   "independence": "shares a witness with S1 (same outlet)",
+   "read": "2026-11-21"
+  },
+  {
+   "id": 3,
+   "name": "PowerPyx - GTA 6 All Meditation Spot Locations",
+   "url": "https://www.powerpyx.com/gta-6-all-meditation-spot-locations/",
+   "scope": "full guide",
+   "pages": 3,
+   "independence": "shares a witness with S1 (same outlet)",
+   "read": "2026-11-21"
+  },
+  {
+   "id": 4,
+   "name": "Push Square - GTA 6 Trophy Guide & Roadmap",
+   "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap",
+   "scope": "full guide",
+   "pages": 10,
+   "independence": "independent witness",
+   "read": "2026-11-21"
+  },
+  {
+   "id": 5,
+   "name": "Push Square - GTA 6 100% Completion Checklist",
+   "url": "https://www.pushsquare.com/guides/gta-6-100percent-completion-checklist",
+   "scope": "key sections",
+   "pages": 4,
+   "independence": "shares a witness with S4 (same outlet)",
+   "read": "2026-11-21"
+  },
+  {
+   "id": 6,
+   "name": "Planet GTA6 - GTA 6 Trophies: All 55 (list via Exophase / PSNProfiles / TrueAchievements)",
+   "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+   "scope": "full guide",
+   "pages": 3,
+   "independence": "aggregator - never a confirmation",
+   "read": "2026-11-21"
+  },
+  {
+   "id": 7,
+   "name": "EGamers - GTA 6 Trophy List: All 55, Plus the Hardest Ones",
+   "url": "https://egamers.io/gta-6-trophy-list-all-55-trophies-and-achievements-plus-the-hardest-ones/",
+   "scope": "full guide",
+   "pages": 5,
+   "independence": "aggregator - never a confirmation",
+   "read": "2026-11-21"
+  },
+  {
+   "id": 8,
+   "name": "EGamers - GTA 6 Stunt Guide: All 397 Stunts",
+   "url": "https://egamers.io/gta-6-stunt-guide-all-397-stunts-the-cunning-stunts-trophy-and-the-100-target/",
+   "scope": "key sections",
+   "pages": 4,
+   "independence": "shares a witness with S7 (same outlet)",
+   "read": "2026-11-21"
+  },
+  {
+   "id": 9,
+   "name": "SixShore - GTA 6 Trophy and Achievement List: Missables and Roadmap",
+   "url": "https://sixshore.com/gta-6/guides/trophies-and-achievements/",
+   "scope": "full guide",
+   "pages": 5,
+   "independence": "independent witness",
+   "read": "2026-11-21"
+  },
+  {
+   "id": 10,
+   "name": "GTA Spotter - GTA VI Trophies and Achievements: The Full Official List",
+   "url": "https://gtaspotter.com/en/guides/gta-6-trophies-and-achievements/",
+   "scope": "full guide",
+   "pages": 4,
+   "independence": "aggregator - never a confirmation",
+   "read": "2026-11-21"
+  },
+  {
+   "id": 11,
+   "name": "GameMapa - All 55 GTA 6 Trophies: Full List, Gamerscore and Platinum Roadmap",
+   "url": "https://gamemapa.com/en/gta-6/guides/gta-6-trophy-achievement-list/",
+   "scope": "full guide",
+   "pages": 5,
+   "independence": "aggregator - never a confirmation",
+   "read": "2026-11-21"
+  },
+  {
+   "id": 12,
+   "name": "KeenGamer - GTA 6 Trophy Guide & Platinum Roadmap: All 55 Trophies",
+   "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/",
+   "scope": "full guide",
+   "pages": 8,
+   "independence": "independent witness",
+   "read": "2026-11-21"
+  },
+  {
+   "id": 13,
+   "name": "KeenGamer - GTA 6: All 18 Meditation Spots and Rewards",
+   "url": "https://www.keengamer.com/articles/guides/gta-6-meditation-spots-all-18-locations-and-rewards/",
+   "scope": "full guide",
+   "pages": 4,
+   "independence": "shares a witness with S12 (same outlet)",
+   "read": "2026-11-21"
+  },
+  {
+   "id": 14,
+   "name": "GTASnaps - GTA 6 Trophy Guide and Roadmap: Difficulty, Missables, Hidden Trophies",
+   "url": "https://gtasnaps.com/gta-6-trophy-guide-and-roadmap/",
+   "scope": "full guide",
+   "pages": 6,
+   "independence": "independent witness",
+   "read": "2026-11-21"
+  },
+  {
+   "id": 15,
+   "name": "GTASnaps - GTA 6 100% Completion Checklist: What It Really Requires",
+   "url": "https://gtasnaps.com/gta-6-100-completion-checklist/",
+   "scope": "key sections",
+   "pages": 3,
+   "independence": "shares a witness with S14 (same outlet)",
+   "read": "2026-11-21"
+  },
+  {
+   "id": 16,
+   "name": "The Games Wiki - GTA 6 Trophies and Achievements",
+   "url": "https://thegameswiki.com/gta6/wiki/trophies-and-achievements",
+   "scope": "full guide",
+   "pages": 5,
+   "independence": "independent witness",
+   "read": "2026-11-21"
+  },
+  {
+   "id": 17,
+   "name": "The Games Wiki - GTA 6 Collectibles",
+   "url": "https://thegameswiki.com/gta6/wiki/collectibles",
+   "scope": "full guide",
+   "pages": 5,
+   "independence": "shares a witness with S16 (same outlet)",
+   "read": "2026-11-21"
+  },
+  {
+   "id": 18,
+   "name": "TechForNerd - GTA 6 Missable Trophies & Achievements Checklist (Chapter 1-3)",
+   "url": "https://www.techfornerd.com/gta-6-missable-trophies-achievements-checklist-chapter-1-3/",
+   "scope": "full guide",
+   "pages": 4,
+   "independence": "independent witness",
+   "read": "2026-11-21"
+  },
+  {
+   "id": 19,
+   "name": "Mobalytics - Grand Theft Auto 6: Full Trophy List & Walkthrough",
+   "url": "https://mobalytics.gg/gamebase/guides/grand-theft-auto-6-all-trophies",
+   "scope": "key sections",
+   "pages": 3,
+   "independence": "aggregator - never a confirmation",
+   "read": "2026-11-21"
+  },
+  {
+   "id": 20,
+   "name": "CryptoGames - GTA 6 Trophies and Achievements: Full List and Hard Ones",
+   "url": "https://cryptogames.gg/gta-6-trophies-achievements-full-list/",
+   "scope": "full guide",
+   "pages": 5,
+   "independence": "aggregator - never a confirmation",
+   "read": "2026-11-21"
+  },
+  {
+   "id": 21,
+   "name": "CryptoGames - GTA 6 Meditation Spots: All 18 Meditations and Rewards",
+   "url": "https://cryptogames.gg/gta-6-meditation-spots/",
+   "scope": "full guide",
+   "pages": 3,
+   "independence": "shares a witness with S20 (same outlet)",
+   "read": "2026-11-21"
+  },
+  {
+   "id": 22,
+   "name": "Destructoid - GTA 6: Everything You Need To Do For 100% Completion",
+   "url": "https://www.destructoid.com/gta-6-everything-100-percent-completion/",
+   "scope": "full guide",
+   "pages": 4,
+   "independence": "independent witness",
+   "read": "2026-11-21"
+  },
+  {
+   "id": 23,
+   "name": "GameTrek - All Collectibles in GTA 6 (GameTrek GTA 6 collectibles page)",
+   "url": "https://gmtreks.com/gta6/page/01M7Q14Z47TMRMR101MF07KYYA",
+   "scope": "key sections",
+   "pages": 4,
+   "independence": "independent witness",
+   "read": "2026-11-21"
+  },
+  {
+   "id": 24,
+   "name": "RogueBoost - GTA 6 Collectibles: Types and Counts",
+   "url": "https://www.rogueboost.com/blog/gta-6-collectibles-guide/",
+   "scope": "full guide",
+   "pages": 3,
+   "independence": "independent witness",
+   "read": "2026-11-21"
+  },
+  {
+   "id": 25,
+   "name": "GTAScoop - GTA 6 Collectibles: Full List, Counts and Card Sets",
+   "url": "https://gtascoop.com/guides/gta-6-collectibles/",
+   "scope": "key sections",
+   "pages": 4,
+   "independence": "independent witness",
+   "read": "2026-11-21"
+  },
+  {
+   "id": 26,
+   "name": "WeHunt - Grand Theft Auto VI Trophy Guide & Platinum Roadmap (cookiemonster33)",
+   "url": "https://wehunt.gg/guides/grand-theft-auto-vi-cookiemonster33-npwr21085_00-9918eb49",
+   "scope": "full guide",
+   "pages": 8,
+   "independence": "independent witness",
+   "read": "2026-11-21"
+  },
+  {
+   "id": 27,
+   "name": "GTABase - GTA 6 Trophy Guide & Achievements List (PS5 & Xbox)",
+   "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series",
+   "scope": "full guide",
+   "pages": 8,
+   "independence": "independent witness",
+   "read": "2026-11-21"
+  },
+  {
+   "id": 28,
+   "name": "Beebom - All GTA 6 Meditation Spots Locations",
+   "url": "https://beebom.com/gta-6-meditation-spots-locations/",
+   "scope": "full guide",
+   "pages": 4,
+   "independence": "independent witness",
+   "read": "2026-11-21"
+  }
+ ],
+ "disputes": [
+  {
+   "id": 1,
+   "topic": "Platinum time",
+   "a": "About 200 hours in one playthrough.",
+   "a_src": 1,
+   "b": "Up to 300 hours or more.",
+   "b_src": 4,
+   "call": "Budget 200 hours on the PowerPyx route and treat anything past it as buffer, not failure.",
+   "trophy": 14
+  },
+  {
+   "id": 2,
+   "topic": "Platinum difficulty",
+   "a": "4 out of 10 - long rather than hard.",
+   "a_src": 1,
+   "b": "Some guides rate the same platinum 7 out of 10.",
+   "b_src": 14,
+   "call": "4/10. No guide names a skill gate; the cost is time.",
+   "trophy": 14
+  },
+  {
+   "id": 3,
+   "topic": "WAiNK location total",
+   "a": "108 locations in five categories (31 landmarks, 35 curiosities, 23 sculptures, 4 billboards, 15 tags).",
+   "a_src": 17,
+   "b": "112 locations, with 23 No Flusher tags and no separate billboard split.",
+   "b_src": 25,
+   "call": "108: the five-category split adds up exactly; the 112 figure double-counts one category.",
+   "trophy": 31
+  },
+  {
+   "id": 4,
+   "topic": "Vehicle scan pool",
+   "a": "200 of 277 base-model vehicles.",
+   "a_src": 27,
+   "b": "One checklist line reads 200 of 557 vehicles.",
+   "b_src": 2,
+   "call": "277 base models; 557 appears to count variants. The trophy-side target (discover 100 vehicles) is a different counter.",
+   "trophy": 35
+  },
+  {
+   "id": 5,
+   "topic": "Meditation spots vs meditations",
+   "a": "18 meditation spots.",
+   "a_src": 28,
+   "b": "10 locations holding 18 meditations - most spots count twice, once per protagonist.",
+   "b_src": 3,
+   "call": "10 locations, 18 meditations. The trophy needs all 18 meditations, not 18 places.",
+   "trophy": 28
+  },
+  {
+   "id": 6,
+   "topic": "Swamp meditation county",
+   "a": "Kelly County (Buckskin Swamp).",
+   "a_src": 13,
+   "b": "Vice-Dale County in another location list.",
+   "b_src": 21,
+   "call": "Kelly County, following the two location guides that place Buckskin Swamp there; county labels are launch-week and may be corrected.",
+   "trophy": 28
+  },
+  {
+   "id": 7,
+   "topic": "Red Rocks county",
+   "a": "Kelly County, Manifest Canyon.",
+   "a_src": 3,
+   "b": "Manifest County, north of Kelly.",
+   "b_src": 28,
+   "call": "Kelly County - Manifest Canyon is the place name, not a county.",
+   "trophy": 28
+  },
+  {
+   "id": 8,
+   "topic": "Shooting range count",
+   "a": "Two ranges: Rodgers Ranch and Griffin.",
+   "a_src": 4,
+   "b": "42 challenges spread across 12 ranges.",
+   "b_src": 27,
+   "call": "Unresolved in print; the trophy needs all 42 golds either way, so the guide counts challenges, not buildings.",
+   "trophy": 17
+  },
+  {
+   "id": 9,
+   "topic": "Range golds per range",
+   "a": "42 challenges, most with three difficulty tiers.",
+   "a_src": 4,
+   "b": "14 challenges with three golds each.",
+   "b_src": 30,
+   "call": "Same arithmetic (14 x 3 = 42); worded differently, not a real conflict - counted here because readers trip on it.",
+   "trophy": 17
+  },
+  {
+   "id": 10,
+   "topic": "Race Challenge golds for 100%",
+   "a": "10 of 13 race-challenge gold medals.",
+   "a_src": 26,
+   "b": "A checklist page prints '30 Race Challenge Gold Medals' on that line.",
+   "b_src": 5,
+   "call": "10 of 13. The 30 belongs to the unique-races line (30 of 40) and was transposed.",
+   "trophy": 19
+  },
+  {
+   "id": 11,
+   "topic": "Griffin range location",
+   "a": "Balsero.",
+   "a_src": 4,
+   "b": "Vice City.",
+   "b_src": 29,
+   "call": "Unconfirmed either way at launch; the map's Activities > Shooting Ranges filter settles it in-game.",
+   "trophy": 17
+  },
+  {
+   "id": 12,
+   "topic": "Rodgers Ranch location",
+   "a": "Port Gellhorn.",
+   "a_src": 4,
+   "b": "Mount Kalaga area.",
+   "b_src": 29,
+   "call": "Port Gellhorn, on the fuller location write-up; verify in-game via the map filter.",
+   "trophy": 17
+  },
+  {
+   "id": 13,
+   "topic": "Range waiver cost",
+   "a": "A $5 waiver pass from the clerk unlocks the challenges.",
+   "a_src": 26,
+   "b": "A waiver pass is required, price not stated.",
+   "b_src": 29,
+   "call": "Buy the pass whatever it costs; the $5 figure is single-source and labelled as such.",
+   "trophy": 17
+  },
+  {
+   "id": 14,
+   "topic": "Drone third race unlock",
+   "a": "Beat the par time in the first two races to unlock the third.",
+   "a_src": 26,
+   "b": "The third race only needs finishing, in any time, for the checklist.",
+   "b_src": 29,
+   "call": "Both can hold: par unlocks it, finishing it completes the checklist line. The trophy needs one win per location.",
+   "trophy": 18
+  },
+  {
+   "id": 15,
+   "topic": "Hidden trophy count framing",
+   "a": "28 of 55 are hidden (27 bronze + the final-mission gold).",
+   "a_src": 7,
+   "b": "26 trophies 'spoil the story or are hidden'.",
+   "b_src": 10,
+   "call": "28 hidden is the PSN count; 26 is an editorial spoiler grouping, not the hidden flag count.",
+   "trophy": 2
+  },
+  {
+   "id": 16,
+   "topic": "Visible trophy count",
+   "a": "27 visible trophies listed before the hidden section.",
+   "a_src": 6,
+   "b": "26 visible trophies plus the platinum counted separately.",
+   "b_src": 9,
+   "call": "27 visible including the platinum; the two lists agree once the platinum is counted the same way.",
+   "trophy": 1
+  },
+  {
+   "id": 17,
+   "topic": "Cheats",
+   "a": "Cheats disable trophies and saving.",
+   "a_src": 27,
+   "b": "Some lists say only that cheats disable trophies.",
+   "b_src": 7,
+   "call": "Keep cheats off entirely: the stronger claim (saving too) comes from two lists, and the safe play costs nothing.",
+   "trophy": 1
+  },
+  {
+   "id": 18,
+   "topic": "Mission replay",
+   "a": "There is no mission replay function.",
+   "a_src": 1,
+   "b": "Early list pages are silent on replay, and chapter-select rumours circulate.",
+   "b_src": 19,
+   "call": "No replay. Chapter-boundary manual saves are the only way back - the roadmap is built on that.",
+   "trophy": 3
+  },
+  {
+   "id": 19,
+   "topic": "Stranger strands after the story",
+   "a": "Strand finales can be finished after the story.",
+   "a_src": 9,
+   "b": "Optional missions with black icons disappear after a while.",
+   "b_src": 1,
+   "call": "Both: generic optional tasks expire, trophy strands persist. Start strands when they appear regardless.",
+   "trophy": 25
+  },
+  {
+   "id": 20,
+   "topic": "Kenton's availability",
+   "a": "Kenton becomes temporarily unavailable during parts of the story (trophy unaffected).",
+   "a_src": 1,
+   "b": "His sets and finale are ordinary post-story cleanup on other lists.",
+   "b_src": 22,
+   "call": "Treat it as at-risk, not missable: if Kenton is away, advance the story and return.",
+   "trophy": 23
+  },
+  {
+   "id": 21,
+   "topic": "Card sets: trophy vs checklist",
+   "a": "3 complete sets earn the trophy.",
+   "a_src": 17,
+   "b": "15 of 18 sets are needed for 100% completion.",
+   "b_src": 2,
+   "call": "Both numbers are real and belong to different targets; the guide tracks the trophy's 3 first, then the checklist's 15.",
+   "trophy": 30
+  },
+  {
+   "id": 22,
+   "topic": "Animals: study or hunt?",
+   "a": "Study 100 of 255 animals through binoculars; no hunting or skinning needed for 100%.",
+   "a_src": 1,
+   "b": "Fair Game asks you to hunt one unique animal for Bret.",
+   "b_src": 27,
+   "call": "Both: the checklist wants studies, the one trophy wants a single hunt. Do not hunt the other 99.",
+   "trophy": 29
+  },
+  {
+   "id": 23,
+   "topic": "Story hours inside the total",
+   "a": "Story 60-80h + checklist ~100h + cleanup ~10h, inside a ~200h total.",
+   "a_src": 1,
+   "b": "Cleanup alone is put at 10-20 hours.",
+   "b_src": 12,
+   "call": "Plan on 200 hours with cleanup at the top of its range; the stage hours in the roadmap carry both figures.",
+   "trophy": 14
+  },
+  {
+   "id": 24,
+   "topic": "Release timing",
+   "a": "Release date 19 November 2026.",
+   "a_src": 1,
+   "b": "The list went public when the game unlocked in New Zealand on 18 November.",
+   "b_src": 9,
+   "call": "Same launch, two timezones. All sources in this registry were read on 21 November 2026.",
+   "trophy": 1
+  },
+  {
+   "id": 25,
+   "topic": "Paradise Lost unlock moment",
+   "a": "Unlocks after completing the first main mission of Chapter 2.",
+   "a_src": 1,
+   "b": "The official description reads 'Complete Chapter 1.'",
+   "b_src": 6,
+   "call": "Same event seen from two sides: the pop lands as Chapter 2 opens. The description is the authority.",
+   "trophy": 3
+  },
+  {
+   "id": 26,
+   "topic": "Is the Chapter 1 meditation required?",
+   "a": "It adds +1 to the meditation counter but is not marked as a Meditation Spot, so its necessity is unclear.",
+   "a_src": 1,
+   "b": "It is spot #1 of 18 and required for the trophy.",
+   "b_src": 28,
+   "call": "Do it. It costs two minutes in Chapter 1 and removes the only known platinum risk.",
+   "trophy": 28
+  },
+  {
+   "id": 27,
+   "topic": "Final (Ascent) meditation",
+   "a": "A tenth spot that appears on the map only after all other meditations are done.",
+   "a_src": 3,
+   "b": "Listed as a normal spot in the 18 from the start.",
+   "b_src": 21,
+   "call": "It is meditation 18 and it is gated: do not hunt for it early.",
+   "trophy": 28
+  },
+  {
+   "id": 28,
+   "topic": "Stunt locations known",
+   "a": "All 397 stunts exist across four types; locations are being mapped.",
+   "a_src": 1,
+   "b": "Only 24 of the 130 stunt jumps were located by name at launch week (about 18%).",
+   "b_src": 8,
+   "call": "Counts are confirmed, locations are partial: this guide cites counts, and marks jump locations as still being mapped.",
+   "trophy": 15
+  },
+  {
+   "id": 29,
+   "topic": "100% is not everything",
+   "a": "The checklist is closer to 60% of true completion; most collectibles are only partly required.",
+   "a_src": 1,
+   "b": "Presented elsewhere as the full completion list without the 60% framing.",
+   "b_src": 22,
+   "call": "60% framing stands: the checklist is a curated subset, which is why partial lines stop at their marks.",
+   "trophy": 14
+  },
+  {
+   "id": 30,
+   "topic": "Optional tasks icons",
+   "a": "Optional tasks are black icons with pink letters, plus purple map icons.",
+   "a_src": 1,
+   "b": "Optional tasks are the black icons with pink text (purple not mentioned).",
+   "b_src": 22,
+   "call": "Count both icon families; the fuller description names both, and 100 tasks is the target either way.",
+   "trophy": 14
+  },
+  {
+   "id": 31,
+   "topic": "Smash 'N' Grabs line",
+   "a": "34 of 35 Smash 'N' Grabs.",
+   "a_src": 2,
+   "b": "Printed without the total of 35 on one checklist page.",
+   "b_src": 5,
+   "call": "34 of 35: one may be skipped.",
+   "trophy": 14
+  },
+  {
+   "id": 32,
+   "topic": "Stick Ups line",
+   "a": "50 of 91 Stick Ups.",
+   "a_src": 2,
+   "b": "50 Stick Ups, total not printed.",
+   "b_src": 5,
+   "call": "50 of 91: barely over half are needed.",
+   "trophy": 14
+  },
+  {
+   "id": 33,
+   "topic": "Gang Operations discovery",
+   "a": "Found on the map and through tips and conversations.",
+   "a_src": 1,
+   "b": "Marked with yellow map icons.",
+   "b_src": 22,
+   "call": "Both routes feed the same 39; sweep yellow icons and follow tips.",
+   "trophy": 43
+  },
+  {
+   "id": 34,
+   "topic": "Underwater discoveries and Kenton",
+   "a": "The 33 sunken wrecks are tied to Kenton's treasure questline.",
+   "a_src": 17,
+   "b": "Listed as a standalone checklist line with no questline tie.",
+   "b_src": 2,
+   "call": "Tied: work Kenton's strand and the discoveries together.",
+   "trophy": 23
+  },
+  {
+   "id": 35,
+   "topic": "Challenges headline number",
+   "a": "Complete 50 Challenges (trophy).",
+   "a_src": 6,
+   "b": "Complete 70 of 80 Challenges (checklist).",
+   "b_src": 2,
+   "call": "Different targets again: 50 pops the trophy on the way to the checklist's 70.",
+   "trophy": 32
+  },
+  {
+   "id": 36,
+   "topic": "Strangers on the checklist",
+   "a": "Strangers & Freaks quests are not required by the 100% checklist.",
+   "a_src": 1,
+   "b": "The trophy needs 8 full strands, so they read as core content.",
+   "b_src": 12,
+   "call": "Not on the checklist, still on the platinum: Stage 3 of the roadmap owns them.",
+   "trophy": 25
+  },
+  {
+   "id": 37,
+   "topic": "Gamerscore values per trophy",
+   "a": "Individual Gamerscore values are printed per trophy.",
+   "a_src": 27,
+   "b": "Values differ between lists, so one list declines to print them.",
+   "b_src": 20,
+   "call": "This casebook tracks PSN points (300/90/30/15 = 1,350 total), which every list agrees on, and prints no Gamerscore.",
+   "trophy": 1
+  },
+  {
+   "id": 38,
+   "topic": "Meditation benefit",
+   "a": "Meditating raises the Focus stat.",
+   "a_src": 28,
+   "b": "No fixed cash or equipment reward per spot has been identified.",
+   "b_src": 21,
+   "call": "Both stand: the reward is the Focus gain and the trophy progress, not loot.",
+   "trophy": 28
+  },
+  {
+   "id": 39,
+   "topic": "Activity types list",
+   "a": "The nine types end with 'a video game'.",
+   "a_src": 9,
+   "b": "The nine types name 'an arcade game' in that slot.",
+   "b_src": 27,
+   "call": "Same slot, two labels; Stick Fiddler (complete an arcade game) is the trophy that pins it down.",
+   "trophy": 16
+  },
+  {
+   "id": 40,
+   "topic": "Platinum name on Xbox",
+   "a": "The platinum has no Xbox equivalent in the list.",
+   "a_src": 6,
+   "b": "Xbox carries it as a 'Mythic' achievement.",
+   "b_src": 7,
+   "call": "Platform trivia only; this is a PS5 guide and tracks the platinum itself.",
+   "trophy": 1
+  },
+  {
+   "id": 41,
+   "topic": "First-mission framing",
+   "a": "Gone Fishing is the opening mission and its trophy cannot be missed.",
+   "a_src": 1,
+   "b": "One roadmap calls the early hours 'several hours in' for the linked meditation scene.",
+   "b_src": 18,
+   "call": "Gone Fishing opens the game; the meditation scene comes later in Chapter 1, after Down to Earth.",
+   "trophy": 2
+  },
+  {
+   "id": 42,
+   "topic": "Shooting-range Focus bonus",
+   "a": "Ranges raise Focus, which makes Gunslinger easier.",
+   "a_src": 26,
+   "b": "Ranges grant a permanent reload-speed and recoil bonus.",
+   "b_src": 29,
+   "call": "Possibly both bonuses; either way, ranges before Gunslinger is the right order.",
+   "trophy": 36
+  },
+  {
+   "id": 43,
+   "topic": "WAiNK scan vs vehicle discovery",
+   "a": "WAiNK scans are locations (100 for the trophy).",
+   "a_src": 17,
+   "b": "Vehicle scanning with the WAiNK app is a checklist line (200 of 277).",
+   "b_src": 12,
+   "call": "Two different WAiNK counters: locations for You WAiNKer!, vehicles for the checklist and Whip It Good's 100.",
+   "trophy": 31
+  },
+  {
+   "id": 44,
+   "topic": "Hoops and stunts lines",
+   "a": "Stunts 300 of 397 and hoops 90 of 100 are separate checklist lines.",
+   "a_src": 30,
+   "b": "One activities page folds hoops into the stunt section without its own line.",
+   "b_src": 29,
+   "call": "Separate lines; the casebook's counters keep them apart.",
+   "trophy": 15
+  }
+ ],
+ "roadmap": [
+  {
+   "claim": "Total time to platinum: about 200 hours",
+   "cites": [
+    1,
+    12
+   ]
+  },
+  {
+   "claim": "Estimated difficulty: 4 out of 10 - long rather than hard",
+   "cites": [
+    1,
+    16
+   ]
+  },
+  {
+   "claim": "Minimum playthroughs: 1",
+   "cites": [
+    1,
+    27
+   ]
+  },
+  {
+   "claim": "Mission replay: none - keep a save at the start and end of every chapter",
+   "cites": [
+    1,
+    18
+   ]
+  },
+  {
+   "claim": "Online trophies: 0 - the whole list is single-player",
+   "cites": [
+    1,
+    7
+   ]
+  },
+  {
+   "claim": "Missable trophies: 1 possibly - Positive Mental Attitude (Chapter 1 meditation)",
+   "cites": [
+    1,
+    27
+   ]
+  },
+  {
+   "claim": "Story length: 60-80 hours across 5 chapters",
+   "cites": [
+    1,
+    12
+   ]
+  },
+  {
+   "claim": "Stage 2 (100% checklist and challenges): about 100 hours",
+   "cites": [
+    1,
+    12
+   ]
+  },
+  {
+   "claim": "Stage 3 (strangers and cleanup): about 10 hours (one guide says 10-20)",
+   "cites": [
+    1,
+    12
+   ]
+  },
+  {
+   "claim": "Cheats disable trophies and saving on a trophy run - leave them off",
+   "cites": [
+    27,
+    7
+   ]
+  },
+  {
+   "claim": "The 100% checklist opens after the story at Progress > Stats, and earlier progress already counts",
+   "cites": [
+    2,
+    22
+   ]
+  },
+  {
+   "claim": "Nothing on the 100% checklist is missable; post-story free roam stays open",
+   "cites": [
+    2,
+    27
+   ]
+  }
+ ],
+ "stages": [
+  {
+   "name": "Stage 1 - Story, with two habits",
+   "hours": "60-80 hours",
+   "cites": [
+    1,
+    12
+   ],
+   "text": "Play all five chapters. Habit one: accept Lucia's Chapter 1 meditation at Jason's house the morning after Down to Earth. Habit two: scan every new vehicle and study animals as you travel, and keep a manual save at each chapter boundary."
+  },
+  {
+   "name": "Stage 2 - The 100% checklist and 70 of 80 challenges",
+   "hours": "about 100 hours",
+   "cites": [
+    2,
+    15
+   ],
+   "text": "Open Progress > Stats > 100% Completion after the credits. Full lines first (robberies, 33 underwater discoveries, 42 range golds, 42 drone trials, 15 Bret decks), then partial lines to their marks only (300 stunts, 15 card sets, 15 meditations, 100 WAiNK scans)."
+  },
+  {
+   "name": "Stage 3 - Strangers, freaks and the sweep",
+   "hours": "about 10 hours",
+   "cites": [
+    1,
+    12
+   ],
+   "text": "Finish the 8 stranger strands and the named finales (Andy, Kenton, Billy, Randy, Tyrone), then sweep whatever single trophies remain. The platinum pops with the last one."
+  }
+ ],
+ "audit": {
+  "claims": 562,
+  "claims_cited": 562,
+  "claims_multi": 562,
+  "sources": 28,
+  "pages": 142,
+  "disputes": 44,
+  "steps": 385,
+  "steps_cited": 385,
+  "trophies": 55,
+  "psn_points": 1350
+ }
+}

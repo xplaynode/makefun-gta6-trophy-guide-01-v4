@@ -3,23 +3,29 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>GTA VI trophy checklist</title>
+<title>Leonida Casebook - GTA VI Trophy Guide &amp; Tracker</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header>
-  <h1>GTA VI trophy checklist</h1>
-  <p id="progress">0 of 55 earned</p>
+<header class="topbar">
+  <div class="brand">
+    <h1>Leonida Casebook</h1>
+    <p class="tag">GTA VI trophy guide &amp; tracker - all 55 PS5 trophies, every claim cited</p>
+  </div>
+  <nav class="views" aria-label="Views">
+    <button type="button" data-view="guide" class="viewbtn">Guide &amp; Tracker</button>
+    <button type="button" data-view="roadmap" class="viewbtn">Roadmap</button>
+    <button type="button" data-view="missables" class="viewbtn">Missables</button>
+    <button type="button" data-view="sources" class="viewbtn">Sources &amp; Save</button>
+  </nav>
 </header>
-<div class="controls">
-  <label>Grade <select id="grade"><option value="all">All</option><option value="platinum">Platinum</option><option value="gold">Gold</option><option value="silver">Silver</option><option value="bronze">Bronze</option></select></label>
-  <button id="export" type="button">Export progress</button>
-  <label class="import">Import progress <input id="import" type="file" accept="application/json"></label>
-</div>
-<table>
-  <thead><tr><th>Earned</th><th>Trophy</th><th>Grade</th><th>How to get it</th></tr></thead>
-  <tbody id="rows"></tbody>
-</table>
+<div id="audit" class="audit" role="note">Loading the casebook audit...</div>
+<main id="main"></main>
+<footer class="foot">
+  <p>Offline casebook: progress is stored only in this browser (localStorage) and in the save file you export.
+  Guide wording is original to this entry; facts are cited to the numbered sources in the Sources &amp; Save view.
+  Trophy names and descriptions are shown as PlayStation publishes them. No Rockstar artwork is used.</p>
+</footer>
 <script type="module" src="app.js"></script>
 </body>
 </html>
